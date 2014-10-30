@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+  color: red;
+}
+
+h1 {
+  color: purple;
+}
+
+/* These are extra styles */
+
+img {
+  height: 200px;
+  width: 200px;
+}
